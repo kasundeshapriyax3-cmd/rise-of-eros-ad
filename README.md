@@ -1,2 +1,3 @@
 # rise-of-eros-ad
-Rise of Eros is a high-quality 3D RPG game designed for mature audiences (18+). The game features a story-driven experience where players can collect, upgrade, and build powerful characters to engage in strategic battles
+
+<iframe frameborder="0" src="https://www.ero-labs.com/adIframe/?code=promotion&lang=en&adType=1&gameId=16&url=https://game.erolabsshare.live/app/92031e17/Rise_of_Eros&type=ad" width="300" height="250"></iframe>
